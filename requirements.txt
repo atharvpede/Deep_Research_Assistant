@@ -1,0 +1,9 @@
+openai
+langchain-community
+sendgrid
+gradio
+pydantic
+dotenv
+certifi
+agents
+typing
